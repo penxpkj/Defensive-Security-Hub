@@ -253,6 +253,15 @@ A curated collection of essential resources, tools, and references for Security 
 - [Cyber Leaks](https://cyber-leaks.com/)
 - [Scattered Secrets](https://scatteredsecrets.com/)
 - [DeHashed](https://dehashed.com/)
+- [BreachDirectory](https://breachdirectory.org/)
+- [HackCheck](https://hackcheck.io/)
+- [IntelligenceX](https://intelx.io/)
+- [IDStrong](https://www.idstrong.com/)
+- [Identity Guard Scan](https://scan.identityguard.com/full)
+- [ImmuniWeb Dark Web Scan](https://www.immuniweb.com/darkweb/)
+- [Leak-Lookup](https://leak-lookup.com/)
+- [Snusbase](https://snusbase.com/)
+- [LeakCheck](https://leakcheck.io/)
 
 ### Privacy & Image Search Tools
 - [TinEye Reverse Image Search](https://tineye.com/)
