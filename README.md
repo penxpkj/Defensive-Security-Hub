@@ -63,6 +63,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [How SELinux deny rules improve system security ](https://developers.redhat.com/articles/2025/06/04/how-selinux-deny-rules-improve-system-security#)
 
 ### Blogs
+- [Security Investigation](https://www.socinvestigation.com/)
 - [The DFIR Report](https://thedfirreport.com/)
 - [HackForLab](https://hackforlab.com/category/threat-intelligence/)
 - [Detection Engineering Collective](https://detect.fyi/)
@@ -70,6 +71,9 @@ A curated collection of essential resources, tools, and references for Security 
 - [Hadess](https://hadess.io/blog/)
 - [eCrime](https://ecrime.ch/media.php)
 - [DevSecOps Guides](https://blog.devsecopsguides.com/)
+- [Exploit Reversing](https://exploitreversing.com/)
+- [InfoStealers](https://www.infostealers.com/learn-info-stealers/)
+- [Hackers Arise](https://www.hackers-arise.com/)
 
 ### GitHub Repositories
 - [eXtended Threat-informed Defence (XTID)](https://github.com/jalacloud/Extended-Threat-Informed-Defence)
@@ -100,6 +104,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [System Monitoring](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-monitoring)
 - [The Fundamental Guide to Building a Better SOC](https://www.splunk.com/en_us/pdfs/resources/e-book/the-fundamental-guide-to-building-a-better-security-operation-center-soc.pdf)
 - [The State of Security 2023](https://www.splunk.com/en_us/pdfs/gated/ebooks/state-of-security-2023.pdf)
+- [ISO 27001]()
 
 ### Cheat Sheets
 - [Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/wp-content/uploads/2022/02/Antivirus_Event_Analysis_CheatSheet_1.9.0.pdf)
@@ -114,6 +119,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [Living Off the Living Off the Land](https://lolol.farm/)
 - [UnProtect](https://unprotect.it/)
 - [EchoTrail](https://www.echotrail.io/insights)
+- [TrailDiscover](https://github.com/adanalvarez/TrailDiscover)
 - [ARTToolkit](https://arttoolkit.github.io/)
 - [Exploit Notes](https://exploit-notes.hdks.org/)
 - [RFC Editor](https://www.rfc-editor.org/)
@@ -137,18 +143,18 @@ A curated collection of essential resources, tools, and references for Security 
 - [URL2PNG - Website Screenshot Service](https://www.url2png.com/)
 
 ### Threat Hunting
-- [HACK THE LOGS](https://www.hackthelogs.com/)
 - [MITRE ATT&amp;CK](https://attack.mitre.org/)
 - [MITRE ATT&amp;CK Groups](https://attack.mitre.org/groups/)
 - [eXtended Threat-informed Defence (XTID)](https://github.com/jalacloud/Extended-Threat-Informed-Defence)
 - [AttackRuleMap](https://attackrulemap.com/)
-- [TrailDiscover](https://github.com/adanalvarez/TrailDiscover)
+- [Non-Human Identity Threat Center](https://www.nonhumanidentitythreatcenter.com/)
 - [DNS Abuse Techniques Matrix](https://firstdotorg.github.io/dns-abuse-sig/)
 - [Detection Engineering Maturity Matrix](https://detectionengineering.io/)
 - [Evids](https://evids.dfir.tips/)
 
 ### Cyber Threat Intelligence
 - [CTI-CMM](https://github.com/cti-cmm/framework)
+- [Orange Cyberdefense](https://research.orangecyberdefense.com/now/)
 
 ### Cyber Threat Intelligence Platforms
 - [IntelMQ](https://github.com/certtools/intelmq)
