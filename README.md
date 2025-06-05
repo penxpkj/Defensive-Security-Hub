@@ -144,6 +144,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [build-a-soc](https://start.me/p/ME2Q4k/build-a-soc)
 - [CTI](https://start.me/p/rxRbpo/cti)
 - [infosec](https://start.me/p/m6Edbv/infosec)
+- [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 
 ### Telegram Channels
 - [Threat Hunting Usecases](https://t.me/threat_hunting_usecases)
