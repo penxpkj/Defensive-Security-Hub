@@ -44,6 +44,9 @@ A curated collection of essential resources, tools, and references for Security 
 ├── IoCs
 ├── Vulnerability Intelligence Resources
 ├── Security Analysis & Threat Intelligence Tools
+├── Data Breach & Leak Monitoring Services
+├── Privacy & Image Search Tools
+├── Hacking Communities & Resources
 ├── Start.me pages
 └── Telegram Channels
 ```
@@ -106,6 +109,12 @@ A curated collection of essential resources, tools, and references for Security 
 
 ### Websites and Tools
 - [CISA](https://www.cisa.gov/resources-tools/all-resources-tools)
+- [Attack Rule Map](https://attackrulemap.com/)
+- [Living Off the Living Off the Land](https://lolol.farm/)
+- [UnProtect](https://unprotect.it/)
+- [EchoTrail](https://www.echotrail.io/insights)
+- [ARTToolkit](https://arttoolkit.github.io/)
+- [Exploit Notes](https://exploit-notes.hdks.org/)
 - [SG TCP/IP Ports database](https://www.speedguide.net/ports.php)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [endoflife.date](https://endoflife.date/)
@@ -114,12 +123,6 @@ A curated collection of essential resources, tools, and references for Security 
 - [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 - [malwoverview](https://github.com/alexandreborges/malwoverview)
 - [C2-Tracker](https://github.com/montysecurity/C2-Tracker)
-- [Living Off the Living Off the Land](https://lolol.farm/)
-- [UnProtect](https://unprotect.it/)
-- [EchoTrail](https://www.echotrail.io/insights)
-- [FILE SIGNATURES TABLE](https://www.garykessler.net/library/file_sigs.html)
-- [ARTToolkit](https://arttoolkit.github.io/)
-- [Exploit Notes](https://exploit-notes.hdks.org/)
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 - [No more Ransom](https://www.nomoreransom.org/en/index.html)
 - [forensictools](https://github.com/cristianzsh/forensictools)
@@ -129,6 +132,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [Syscall Tables](https://github.com/hfiref0x/SyscallTables)
 - [EDR Telemetry Resources](https://github.com/tsale/EDR-Telemetry-Website)
 - [Majestic Million Websites](https://majestic.com/reports/majestic-million)
+- [URL2PNG - Website Screenshot Service](https://www.url2png.com/)
 
 ### Threat Hunting
 - [HACK THE LOGS](https://www.hackthelogs.com/)
@@ -230,11 +234,34 @@ A curated collection of essential resources, tools, and references for Security 
 - [IsLegitSite](https://www.islegitsite.com/)
 - [HaveIBeenSquatted](https://haveibeensquatted.com/)
 
+### Data Breach & Leak Monitoring Services
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Am I Breached](https://amibreached.com/)
+- [Firefox Monitor](https://monitor.firefox.com/)
+- [LeakPeek](https://leakpeek.com/)
+- [Distributed Denial of Secrets](https://ddosecrets.com/)
+- [WikiLeaks](https://wikileaks.org/)
+- [Cyber Leaks](https://cyber-leaks.com/)
+- [Scattered Secrets](https://scatteredsecrets.com/)
+- [DeHashed](https://dehashed.com/)
+
+### Privacy & Image Search Tools
+- [TinEye Reverse Image Search](https://tineye.com/)
+- [PimEyes Facial Recognition](https://pimeyes.com/en)
+
+### Hacking Communities & Resources
+- [CyberNulled](https://cybernulled.com/)
+- [Cracking Zone](https://cracking.org/)
+- [Demon Forums](https://demonforums.net/)
+- [LeakZone](https://leakzone.net/)
+
 ### Start.me Pages
 - [Cyber Threat Intelligence](https://start.me/p/wMrA5z/cyber-threat-intelligence)
 - [build-a-soc](https://start.me/p/ME2Q4k/build-a-soc)
 - [CTI](https://start.me/p/rxRbpo/cti)
 - [infosec](https://start.me/p/m6Edbv/infosec)
+- [OSINT Darkweb Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
+- [Dark Web](https://start.me/p/0PGKad/darkweb)
 - [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 
 ### Telegram Channels
