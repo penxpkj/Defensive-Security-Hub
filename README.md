@@ -21,12 +21,13 @@ A curated collection of essential resources, tools, and references for Security 
 </div>
 
 
-> **Pro Tip**: Use `Ctrl+F` / `Cmd+F` to quickly find resources by keyword!
+> Pro Tip: Use `Ctrl+F` / `Cmd+F` to quickly find resources by keyword!
 
 ---
 
 ## 📂 Repository Structure
 ```bash
+├── Training
 ├── Articles
 ├── Blogs
 ├── GitHub Repositories
@@ -38,10 +39,15 @@ A curated collection of essential resources, tools, and references for Security 
 ├── Threat Hunting
 ├── Cyber Threat Intelligence
 ├── Cyber Threat Intelligence Platforms
+├── MISP Resources Documentation
+├── Kraven Security MISP Series
 ├── IoCs
 ├── Start.me pages
 └── Telegram Channels
 ```
+
+### Training
+- [Student SOC Program Foundations training](https://microsoft.github.io/SOC/source/content/#/)
 
 ### Articles
 - [Splunk - Security Operation Center.html](https://www.splunk.com/en_us/blog/learn/soc-security-operation-center.html)
@@ -49,6 +55,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [A Sysmon Event ID Breakdown](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 - [Threat Hunting --- Suspicious Windows Services](https://detect.fyi/threat-hunting-suspicious-windows-service-names-2f0dceea204c)
 - [Ransomware identification for the judicious analyst](https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst)
+- [How SELinux deny rules improve system security ](https://developers.redhat.com/articles/2025/06/04/how-selinux-deny-rules-improve-system-security#)
 
 ### Blogs
 - [The DFIR Report](https://thedfirreport.com/)
@@ -130,6 +137,26 @@ A curated collection of essential resources, tools, and references for Security 
 - [Open-CTI](https://github.com/OpenCTI-Platform/opencti)
 - [AlienVault](https://otx.alienvault.com/)
 - [IntelOwl](https://github.com/intelowlproject/IntelOwl)
+
+### MISP Resources Documentation
+- [MISP Categories and Types](https://www.circl.lu/doc/misp/categories-and-types/)  
+- [MISP Project Tools](https://www.misp-project.org/tools/)  
+- [Using the MISP System](https://www.circl.lu/doc/misp/using-the-system/)  
+- [Attributes REST API](https://www.misp-project.org/openapi/#tag/Attributes/operation/restSearchAttributes)  
+- [Threat Intelligence Best Practices](https://www.misp-project.org/best-practices-in-threat-intelligence.html)  
+- [MISP to Splunk Integration (PDF)](https://archive.hack.lu/2018/misp42splunk_app.pdf)  
+- [MISP Instance Sizing](https://www.misp-project.org/sizing-your-misp-instance/)  
+- [MISP Deployment Training (PDF)](https://www.misp-project.org/misp-training/a.c-deployment.pdf)  
+- [Feed Metadata Defaults (JSON)](https://raw.githubusercontent.com/MISP/MISP/2.4/app/files/feed-metadata/defaults.json)  
+
+### Kraven Security MISP Series
+- [Part 1: What is MISP?](https://kravensecurity.com/cyber-threat-intelligence-with-misp-part-1-what-is-misp/)  
+- [Part 2: Setup Guide](https://kravensecurity.com/threat-intelligence-with-misp-part-2-setting-up-misp/)  
+- [Part 3: Creating Events](https://kravensecurity.com/threat-intelligence-with-misp-part-3-creating-events/)  
+- [Part 4: Using Feeds](https://kravensecurity.com/threat-intelligence-with-misp-part-4-using-feeds/)  
+- [Part 5: Searching & Filtering](https://kravensecurity.com/threat-intelligence-with-misp-part-5-searching-and-filtering/)  
+- [Part 6: API Usage](https://kravensecurity.com/threat-intelligence-with-misp-part-6-using-the-api/)  
+- [Part 7: Exporting IOCs](https://kravensecurity.com/threat-intelligence-with-misp-part-7-exporting-iocs/)  
 
 ### IoCs
 - [Spydi's ThreatIntel Feed](https://github.com/spydisec/spydithreatintel)
