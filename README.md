@@ -96,6 +96,7 @@ A curated collection of essential resources, tools, and references for Security 
 
 ### Documents & Publications
 - [Hack The Logs](https://www.hackthelogs.com/)
+- [Event Log Compendium](https://eventlog-compendium.streamlit.app/)
 - [System Monitoring](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-monitoring)
 - [The Fundamental Guide to Building a Better SOC](https://www.splunk.com/en_us/pdfs/resources/e-book/the-fundamental-guide-to-building-a-better-security-operation-center-soc.pdf)
 - [The State of Security 2023](https://www.splunk.com/en_us/pdfs/gated/ebooks/state-of-security-2023.pdf)
@@ -115,6 +116,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [EchoTrail](https://www.echotrail.io/insights)
 - [ARTToolkit](https://arttoolkit.github.io/)
 - [Exploit Notes](https://exploit-notes.hdks.org/)
+- [RFC Editor](https://www.rfc-editor.org/)
 - [SG TCP/IP Ports database](https://www.speedguide.net/ports.php)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [endoflife.date](https://endoflife.date/)
@@ -194,6 +196,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [openhunting](https://openhunting.io/threat-library)
 
 ### Vulnerability Intelligence Resources
+- [CVSS v4.0](https://www.first.org/cvss/v4-0/)
 - [VulDB Vendor Search](https://vuldb.com/?vendor)
 - [NVD Dashboard](https://nvd.nist.gov/general/nvd-dashboard)
 - [CVE Monitor](https://cvemon.intruder.io/)
