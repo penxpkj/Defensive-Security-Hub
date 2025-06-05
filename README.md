@@ -43,6 +43,7 @@ A curated collection of essential resources, tools, and references for Security 
 ├── Kraven Security MISP Series
 ├── IoCs
 ├── Vulnerability Intelligence Resources
+├── Security Analysis & Threat Intelligence Tools
 ├── Start.me pages
 └── Telegram Channels
 ```
@@ -204,6 +205,30 @@ A curated collection of essential resources, tools, and references for Security 
 - [Wiz Vulnerability Database](https://www.wiz.io/vulnerability-database)
 - [Threat Search](https://my-threat-news.vercel.app/)
 - [VulnCheck KEV](https://vulncheck.com/kev)
+
+### Security Analysis & Threat Intelligence Tools
+- [VirusTotal File Scan](https://www.virustotal.com/gui/home/upload)
+- [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [ANY.RUN Interactive Malware Analysis](https://any.run/)
+- [Joe Sandbox](https://www.joesecurity.org/#)
+- [FileScan.io](https://www.filescan.io/scan)
+- [URLScan.io](https://urlscan.io/)
+- [WannaBrowser](https://www.wannabrowser.net/)
+- [Browserling](https://www.browserling.com/)
+- [Cisco Talos Intelligence](https://www.talosintelligence.com/)
+- [Pulsedive Threat Intelligence](https://pulsedive.com/)
+- [GreyNoise Visualization](https://viz.greynoise.io/)
+- [BrightCloud URL/IP Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)
+- [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+- [Symantec IP Reputation](https://ipremoval.sms.symantec.com/lookup)
+- [Spamhaus Lookup](https://check.spamhaus.org/)
+- [IP Address Lookup](https://www.whatismyip.com/ip-address-lookup/)
+- [InQuest Deep File Inspection](https://labs.inquest.net/dfi)
+- [CrowdSec CTI](https://app.crowdsec.net/cti)
+- [Threat Zone URL Analysis](https://app.threat.zone/url-analysis)
+- [CRXplorer](https://crxplorer.com/)
+- [IsLegitSite](https://www.islegitsite.com/)
+- [HaveIBeenSquatted](https://haveibeensquatted.com/)
 
 ### Start.me Pages
 - [Cyber Threat Intelligence](https://start.me/p/wMrA5z/cyber-threat-intelligence)
