@@ -42,6 +42,7 @@ A curated collection of essential resources, tools, and references for Security 
 ├── MISP Resources Documentation
 ├── Kraven Security MISP Series
 ├── IoCs
+├── Vulnerability Intelligence Resources
 ├── Start.me pages
 └── Telegram Channels
 ```
@@ -106,6 +107,8 @@ A curated collection of essential resources, tools, and references for Security 
 - [CISA](https://www.cisa.gov/resources-tools/all-resources-tools)
 - [SG TCP/IP Ports database](https://www.speedguide.net/ports.php)
 - [CyberChef](https://gchq.github.io/CyberChef/)
+- [endoflife.date](https://endoflife.date/)
+- [Timestamp Solver](https://timestampsolver.com/)
 - [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe)
 - [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 - [malwoverview](https://github.com/alexandreborges/malwoverview)
@@ -119,6 +122,12 @@ A curated collection of essential resources, tools, and references for Security 
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 - [No more Ransom](https://www.nomoreransom.org/en/index.html)
 - [forensictools](https://github.com/cristianzsh/forensictools)
+- [FileInfo](https://fileinfo.com/)
+- [ASCII Code Table](https://www.ascii-code.com/)
+- [File Signatures Database](https://www.garykessler.net/library/file_sigs.html)
+- [Syscall Tables](https://github.com/hfiref0x/SyscallTables)
+- [EDR Telemetry Resources](https://github.com/tsale/EDR-Telemetry-Website)
+- [Majestic Million Websites](https://majestic.com/reports/majestic-million)
 
 ### Threat Hunting
 - [HACK THE LOGS](https://www.hackthelogs.com/)
@@ -162,6 +171,16 @@ A curated collection of essential resources, tools, and references for Security 
 - [Part 7: Exporting IOCs](https://kravensecurity.com/threat-intelligence-with-misp-part-7-exporting-iocs/)  
 
 ### IoCs
+- [PhishTank](https://phishtank.org/)
+- [OpenPhish](https://openphish.com/)
+- [Phishing Database](https://github.com/Phishing-Database/Phishing.Database)
+- [AbuseIPDB](https://www.abuseipdb.com/)
+- [VirusShare](https://virusshare.com/)
+- [abuse.ch](https://abuse.ch/)
+- [IOC.one](https://ioc.one/)
+- [Vulnerability Lookup](https://www.vulnerability-lookup.org/)
+- [FireHOL IP Lists](https://iplists.firehol.org/)
+- [ThreatFeeds.io](https://threatfeeds.io/)
 - [Spydi's ThreatIntel Feed](https://github.com/spydisec/spydithreatintel)
 - [Free Threat Intel/IOC Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
 - [ThreatMon's Daily Command and Control (C2) Feed](https://github.com/ThreatMon/ThreatMon-Daily-C2-Feeds)
@@ -169,7 +188,24 @@ A curated collection of essential resources, tools, and references for Security 
 - [Indicators from Unit 42 Public Reports](https://github.com/pan-unit42/iocs)
 - [openhunting](https://openhunting.io/threat-library)
 
-### Start.me pages
+### Vulnerability Intelligence Resources
+- [VulDB Vendor Search](https://vuldb.com/?vendor)
+- [NVD Dashboard](https://nvd.nist.gov/general/nvd-dashboard)
+- [CVE Monitor](https://cvemon.intruder.io/)
+- [Vulmon Vulnerability Trends](https://vulmon.com/trends)
+- [CVE MITRE Database](https://cve.mitre.org/)
+- [Exploit Database](https://www.exploit-db.com/)
+- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [CVSS-BT](https://github.com/t0sche/cvss-bt)
+- [PoC in GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
+- [CVE to EPSS Converter](https://www.cve2epss.com/)
+- [EPSS API](https://www.first.org/epss/api)
+- [Vulnerability Lookup](https://www.vulnerability-lookup.org/)
+- [Wiz Vulnerability Database](https://www.wiz.io/vulnerability-database)
+- [Threat Search](https://my-threat-news.vercel.app/)
+- [VulnCheck KEV](https://vulncheck.com/kev)
+
+### Start.me Pages
 - [Cyber Threat Intelligence](https://start.me/p/wMrA5z/cyber-threat-intelligence)
 - [build-a-soc](https://start.me/p/ME2Q4k/build-a-soc)
 - [CTI](https://start.me/p/rxRbpo/cti)
