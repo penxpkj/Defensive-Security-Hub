@@ -265,6 +265,18 @@ A curated collection of essential resources, tools, and references for Security 
 - [infosec](https://start.me/p/m6Edbv/infosec)
 - [OSINT Darkweb Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
 - [Dark Web](https://start.me/p/0PGKad/darkweb)
+- [The Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
+- [Main Tools](https://start.me/p/8yx1o0/main-tools)
+- [OSINT Tools & Resources](https://start.me/p/gy1BgY/osint-tools-and-resources)
+- [OSINT Research Portal](https://start.me/p/rxekAP/osint-research)
+- [SOCMINT Toolkit](https://start.me/p/b5MG5r/social-media-intelligence-socmint)
+- [Privacy & Security](https://start.me/p/gyxXyJ/privacy-personal-security)
+- [Search Engines](https://start.me/p/1kl8j9/search-engines-searchers)
+- [Social Media Search](https://start.me/p/RMKeQv/search-social-media)
+- [V3nari Bookmarks](https://start.me/p/1kxyw9/v3nari-bookmarks)
+- [Digital Forensics](https://start.me/p/m60j2v/digital-forensics)
+- [Deepfake Detection](https://start.me/p/zpkMMO/deep-fake-tools-detection)
 - [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
 
 ### Telegram Channels
