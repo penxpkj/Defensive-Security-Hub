@@ -33,7 +33,7 @@ A curated collection of essential resources, tools, and references for Security 
 ├── GitHub Repositories
 ├── Email Analysis
 ├── File Analysis
-├── Documents
+├── Documents & Publications
 ├── Cheat Sheets
 ├── Websites and Tools
 ├── Threat Hunting
@@ -67,6 +67,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [DevSecOps Guides](https://blog.devsecopsguides.com/)
 
 ### GitHub Repositories
+- [eXtended Threat-informed Defence (XTID)](https://github.com/jalacloud/Extended-Threat-Informed-Defence)
 - [Splunk](https://github.com/MrM8BRH/Splunk)
 - [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
 - [Awesome SOC](https://github.com/cyb3rxp/awesome-soc)
@@ -88,7 +89,9 @@ A curated collection of essential resources, tools, and references for Security 
 - [oletools](https://github.com/decalage2/oletools)
 - [peepdf](https://github.com/jesparza/peepdf)
 
-### Documents
+### Documents & Publications
+- [Hack The Logs](https://www.hackthelogs.com/)
+- [System Monitoring](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration/system-monitoring)
 - [The Fundamental Guide to Building a Better SOC](https://www.splunk.com/en_us/pdfs/resources/e-book/the-fundamental-guide-to-building-a-better-security-operation-center-soc.pdf)
 - [The State of Security 2023](https://www.splunk.com/en_us/pdfs/gated/ebooks/state-of-security-2023.pdf)
 
