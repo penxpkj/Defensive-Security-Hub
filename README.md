@@ -77,6 +77,7 @@ A curated collection of essential resources, tools, and references for Security 
 
 ### GitHub Repositories
 - [eXtended Threat-informed Defence (XTID)](https://github.com/jalacloud/Extended-Threat-Informed-Defence)
+- [Cybersecurity Resources and Learning Journey](https://github.com/MrM8BRH/CRLJ)
 - [Splunk](https://github.com/MrM8BRH/Splunk)
 - [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
 - [Awesome SOC](https://github.com/cyb3rxp/awesome-soc)
