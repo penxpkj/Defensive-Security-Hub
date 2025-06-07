@@ -48,6 +48,7 @@ A curated collection of essential resources, tools, and references for Security 
 ├── Privacy & Image Search Tools
 ├── Hacking Communities & Resources
 ├── Start.me pages
+├── OSINT Communities
 └── Telegram Channels
 ```
 
@@ -294,6 +295,18 @@ A curated collection of essential resources, tools, and references for Security 
 - [Digital Forensics](https://start.me/p/m60j2v/digital-forensics)
 - [Deepfake Detection](https://start.me/p/zpkMMO/deep-fake-tools-detection)
 - [IT & Cybersecurity](https://start.me/p/KMqznE/it-cyber-security)
+
+### OSINT Communities
+- [UK OSINT](https://www.uk-osint.net/index.html)
+- [Best OSINT communities](https://www.osintteam.com/communities/)
+- [OSINT UK](https://www.osint.uk/)
+- [OSINT France](https://osintfr.com/)
+- [OSINT Nord](https://www.osinord.com/)
+- [OSINT Switzerland](https://osintswitzerland.ch/)
+- [Osmosis Institute](https://osmosisinstitute.org/)
+- [Cyber Social Hub](https://cybersocialhub.com/)
+- [OSINT Team](https://www.osintteam.com/)
+- [Projet Fox](https://projetfox.com/)
 
 ### Telegram Channels
 - [Threat Hunting Usecases](https://t.me/threat_hunting_usecases)
