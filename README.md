@@ -270,7 +270,8 @@ A curated collection of essential resources, tools, and references for Security 
 - [TinEye Reverse Image Search](https://tineye.com/)
 - [PimEyes Facial Recognition](https://pimeyes.com/en)
 
-### Hacking Communities & Resources
+### Hacking Communities/Markets & Resources
+- [Russian Market](https://rm1.to/login)
 - [CyberNulled](https://cybernulled.com/)
 - [Cracking Zone](https://cracking.org/)
 - [Demon Forums](https://demonforums.net/)
