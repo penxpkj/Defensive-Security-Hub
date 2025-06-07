@@ -49,6 +49,7 @@ A curated collection of essential resources, tools, and references for Security 
 ├── Hacking Communities & Resources
 ├── Start.me pages
 ├── OSINT Communities
+├── OSINT Resources
 └── Telegram Channels
 ```
 
@@ -307,6 +308,15 @@ A curated collection of essential resources, tools, and references for Security 
 - [Cyber Social Hub](https://cybersocialhub.com/)
 - [OSINT Team](https://www.osintteam.com/)
 - [Projet Fox](https://projetfox.com/)
+
+### OSINT Resources
+- [Best OSINT books](https://www.osintteam.com/books/)
+- [Awesome OSINT Repository](https://github.com/jivoi/awesome-osint)
+- [Social Media OSINT Tools Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection)
+- [Social Media OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT)
+- [Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+- [BBOT](https://github.com/blacklanternsecurity/bbot)
+- [OSINT Cheat Sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet)
 
 ### Telegram Channels
 - [Threat Hunting Usecases](https://t.me/threat_hunting_usecases)
