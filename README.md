@@ -57,7 +57,7 @@ A curated collection of essential resources, tools, and references for Security 
 - [Student SOC Program Foundations training](https://microsoft.github.io/SOC/source/content/#/)
 
 ### Articles
-- [Splunk - Security Operation Center.html](https://www.splunk.com/en_us/blog/learn/soc-security-operation-center.html)
+- [Security Operation Center](https://www.splunk.com/en_us/blog/learn/soc-security-operation-center.html)
 - [Measuring Detection Coverage](https://ipurple.team/2024/10/10/measuring-detection-coverage/)
 - [A Sysmon Event ID Breakdown](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 - [Threat Hunting --- Suspicious Windows Services](https://detect.fyi/threat-hunting-suspicious-windows-service-names-2f0dceea204c)
@@ -109,7 +109,14 @@ A curated collection of essential resources, tools, and references for Security 
 - [The State of Security 2023](https://www.splunk.com/en_us/pdfs/gated/ebooks/state-of-security-2023.pdf)
 - [ISO 27001]()
 
-### Cheat Sheets
+### Cheat Sheets & Tables
+- [RFC Editor](https://www.rfc-editor.org/)
+- [SG TCP/IP Ports database](https://www.speedguide.net/ports.php)
+- [FileInfo](https://fileinfo.com/)
+- [ASCII Code Table](https://www.ascii-code.com/)
+- [File Signatures Database](https://www.garykessler.net/library/file_sigs.html)
+- [Syscall Tables](https://github.com/hfiref0x/SyscallTables)
+- [EDR Telemetry Resources](https://github.com/tsale/EDR-Telemetry-Website)
 - [Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/wp-content/uploads/2022/02/Antivirus_Event_Analysis_CheatSheet_1.9.0.pdf)
 - [Cheat Sheets to help you in configuring your systems](https://www.malwarearchaeology.com/cheat-sheets)
 - [TCP/IP and tcpdump Pocket Reference Guide](https://www.garykessler.net/library/tcpip_prg_GKA.pdf)
@@ -117,16 +124,18 @@ A curated collection of essential resources, tools, and references for Security 
 - [Digital Forensics and Incident Response](https://www.jaiminton.com/cheatsheet/DFIR/)
 
 ### Websites and Tools
-- [CISA](https://www.cisa.gov/resources-tools/all-resources-tools)
+- [Suricata](https://suricata.io/)
+- [Snort](https://www.snort.org/)
+- [Wireshark](https://www.wireshark.org/)
+- [YARA](https://virustotal.github.io/yara/)
 - [Attack Rule Map](https://attackrulemap.com/)
 - [Living Off the Living Off the Land](https://lolol.farm/)
 - [UnProtect](https://unprotect.it/)
 - [EchoTrail](https://www.echotrail.io/insights)
 - [TrailDiscover](https://github.com/adanalvarez/TrailDiscover)
+- [BLADE Framework Matrix](https://www.bladeframework.org/matrix)
 - [ARTToolkit](https://arttoolkit.github.io/)
 - [Exploit Notes](https://exploit-notes.hdks.org/)
-- [RFC Editor](https://www.rfc-editor.org/)
-- [SG TCP/IP Ports database](https://www.speedguide.net/ports.php)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [endoflife.date](https://endoflife.date/)
 - [Timestamp Solver](https://timestampsolver.com/)
@@ -137,11 +146,6 @@ A curated collection of essential resources, tools, and references for Security 
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/)
 - [No more Ransom](https://www.nomoreransom.org/en/index.html)
 - [forensictools](https://github.com/cristianzsh/forensictools)
-- [FileInfo](https://fileinfo.com/)
-- [ASCII Code Table](https://www.ascii-code.com/)
-- [File Signatures Database](https://www.garykessler.net/library/file_sigs.html)
-- [Syscall Tables](https://github.com/hfiref0x/SyscallTables)
-- [EDR Telemetry Resources](https://github.com/tsale/EDR-Telemetry-Website)
 - [Majestic Million Websites](https://majestic.com/reports/majestic-million)
 - [URL2PNG - Website Screenshot Service](https://www.url2png.com/)
 
