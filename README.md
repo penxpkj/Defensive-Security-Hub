@@ -206,13 +206,16 @@ A curated collection of essential resources, tools, and references for Security 
 
 ### Vulnerability Intelligence Resources
 - [CVSS v4.0](https://www.first.org/cvss/v4-0/)
+- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [Bleeping Computer](https://www.bleepingcomputer.com/tag/vulnerability/)
+- [Cybersecurity News](https://cybersecuritynews.com/category/vulnerability/)
+- [Vulert](https://vulert.com/blog/)
 - [VulDB Vendor Search](https://vuldb.com/?vendor)
 - [NVD Dashboard](https://nvd.nist.gov/general/nvd-dashboard)
+- [CVE MITRE Database](https://cve.mitre.org/)
 - [CVE Monitor](https://cvemon.intruder.io/)
 - [Vulmon Vulnerability Trends](https://vulmon.com/trends)
-- [CVE MITRE Database](https://cve.mitre.org/)
 - [Exploit Database](https://www.exploit-db.com/)
-- [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [CVSS-BT](https://github.com/t0sche/cvss-bt)
 - [PoC in GitHub](https://github.com/nomi-sec/PoC-in-GitHub)
 - [CVE to EPSS Converter](https://www.cve2epss.com/)
